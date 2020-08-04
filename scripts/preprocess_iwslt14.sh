@@ -1,0 +1,1 @@
+../joeynmt/scripts/get_iwslt14_bpe.sh

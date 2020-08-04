@@ -1,0 +1,1 @@
+../joeynmt/scripts/build_vocab.py
